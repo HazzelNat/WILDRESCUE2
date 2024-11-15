@@ -11,7 +11,7 @@ Wild Rescue is a top-down shooter, where you play as a park ranger for conservat
 <img src="https://github.com/HazzelNat/WILDRESCUE2/blob/main/Wild%20Rescue.gif" alt="1" style="width:100%;height:auto;">
 
 ## 🎮 DOWNLOAD
-Itch.io : [https://hazzelnat.itch.io/space-pong](https://hazzelnat.itch.io/space-pong)
+Itch.io : Coming soon.
 
 ## 📋 PROJECT INFO
 This project using Unity 2022.3.22f1
