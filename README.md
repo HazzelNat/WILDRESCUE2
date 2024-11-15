@@ -29,7 +29,6 @@ This project using Unity 2022.3.22f1
 
 |  Script       | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
-
 | `PlayerController.cs` | Control the player and the gun to aim where the mouse is |
 | `GunController.cs` | Control the dart's instantiate position and its force |
 | `DartController.cs` | Manage what the dart can do |
